@@ -15,9 +15,29 @@ Python3
 ### Demo
 
 <div align="center">
-	<img src="https://woosal.com/1337/1_ipfastapi.png" />
+	<img src="https://woosal.com/1337/5_ipfastapi.png" />
 </div>
+
+### get
+- get Ruzgar 
+	- `http://localhost:1337/get/ruzgar`
+	<img src="https://woosal.com/1337/2_ipfastapi.png" />
+- get Paster
+	- `http://localhost:1337/get/paster`
+	<img src="https://woosal.com/1337/1_ipfastapi.png" />
+
+### add
+- add Ruzgar
+	- `/add/{token}={ip}={userVote}`
+	<img src="https://woosal.com/1337/3_ipfastapi.png" />
+- add Paster
+	- `/add/{token}={ip}={userVote}`
+	<img src="https://woosal.com/1337/4_ipfastapi.png" />
 	
+### If user has already voted before does not matter which artist	
+<div align="center">
+	<img src="https://woosal.com/1337/6_ipfastapi.png" />
+</div>
 	
 ### Notes
 
