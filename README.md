@@ -24,7 +24,7 @@ Python3
 	<img src="https://woosal.com/1337/2_ipfastapi.png" />
 - get Paster
 	- `http://localhost:1337/get/paster`
-	<img src="https://woosal.com/1337/1_ipfastapi.png" />
+<img src="https://woosal.com/1337/2_ipfastapi.png" />
 
 ### add
 - add Ruzgar
